@@ -22,7 +22,7 @@
     "license": "ISC",
     "dependencies": {
         "@actions/core": "^1.8.2",
-        "@actions/github": "^5.0.3",
+        "@actions/github": "^7.0.0",
         "@axelar-network/axelar-chains-config": "^0.1.0",
         "@axelar-network/axelar-gmp-sdk-solidity": "^5.3.1",
         "@axelar-network/axelar-local-dev": "^2.1.1-alpha.2",
